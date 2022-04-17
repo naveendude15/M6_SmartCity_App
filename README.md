@@ -7,3 +7,6 @@
 * Smart City Management is an online task or application for travel services. The principle objective of this undertaking is to make a quick, compelling and dependable web based working stage to foster a correspondence framework among clients and the office. After the execution of this venture, one doesn't have to visit the travel service office to design any visit.
 
 * The total source code, data set and vital undertaking records of Smart City Management are accessible in the download joins. We as of now don't have project report and documentation; whenever found, these will be refreshed in the download joins. To assist you with understanding what's going on with the task, beneath is a concise prologue to the venture conceptual, highlights and framework particulars.
+
+# Pylint Score
+![pytlint score](https://user-images.githubusercontent.com/98822072/163701208-3d9ee6b9-ed0b-4c98-99d7-cf5e880911ad.png)
